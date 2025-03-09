@@ -1,0 +1,8 @@
+{
+  "name": "com.framework.psd2ui",
+  "displayName": "Psd2UI",
+  "version": "0.1.0",
+  "unity": "2023.2",
+  "description": "A universal psd convert ui for Unity projects.",
+  "dependencies": {}
+}
